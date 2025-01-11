@@ -41,6 +41,11 @@ Arduino Smart Parking is an automated system designed to optimize parking manage
 - `/diagrams/`: Includes system and hardware connection diagrams.
 - `/documentation/`: Contains the project report and supplementary files.
 
+## Task Management
+The progress and task breakdown for this project are managed using a Trello board.  
+You can view the board here: [Trello Board](https://trello.com/b/wxy8h6PE/arduino-smart-parking)
+
+
 ## Future Enhancements
 - Add mobile app integration for remote parking reservations.
 - Implement a payment gateway for automated billing.
@@ -49,7 +54,7 @@ Arduino Smart Parking is an automated system designed to optimize parking manage
 ## Authors
 - [Sarah Khalid Alsaedi]
 - [Jana Abusoudah]
-  [Lana Alamer]
+- [Lana Alamer]
 
 ## License
 This project is licensed under the MIT License.
