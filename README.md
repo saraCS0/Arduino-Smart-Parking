@@ -24,7 +24,7 @@ Arduino Smart Parking is an automated system designed to optimize parking manage
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Arduino-Smart-Parking.git
+   https://github.com/saraCS0/Arduino-Smart-Parking/blob/main/README.md#requirements
    ```
 2. Open the `.ino` file in Arduino IDE.
 3. Connect the hardware components based on the system diagram.
