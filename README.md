@@ -46,11 +46,6 @@ The progress and task breakdown for this project are managed using a Trello boar
 You can view the board here: [Trello Board](https://trello.com/b/wxy8h6PE/arduino-smart-parking)
 
 
-## Future Enhancements
-- Add mobile app integration for remote parking reservations.
-- Implement a payment gateway for automated billing.
-- Expand the system to handle multiple entry/exit points.
-
 ## Authors
 - [Sarah Khalid Alsaedi]
 - [Jana Abusoudah]
