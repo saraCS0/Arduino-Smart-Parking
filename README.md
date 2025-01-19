@@ -11,12 +11,12 @@ Arduino Smart Parking is an automated system designed to optimize parking manage
 ## Requirements
 ### Hardware:
 - Arduino UNO
-- 16×2 LCD Display
-- I2C Module for the LCD
-- Ultrasonic Sensors (2x)
-- Mini Servo Motor (SG-90)
-- IR Sensors
-- Power Adapter (5V, 2A)
+- IR Sensors (2 pcs)
+- Servo Motor
+- LCD Display with I2C Module
+- Mini Breadboard
+- Jumper Wires
+
 
 ### Software:
 - Arduino IDE (C++)
